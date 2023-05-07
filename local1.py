@@ -4,7 +4,7 @@ BASE = "http://127.0.0.1:5000/"
 
 data = [{"firstName": "Dmitry", "lastName": "Vyatskin", "email": "trackinghell@.gmail.com", "password": "012345"},
         {"firstName": "Sonya", "lastName": "Sergeeva", "email": "sonya451f@gmail.com", "password": "0166645"},
-        {"firstName": "Mark", "lastName": "Gorbenko", "email": "vpopydal@gmail.com", "password": "346758"}]
+        {"firstName": "Mark", "lastName": "Gorbenko", "email": "markgor@gmail.com", "password": "346758"}]
 
 
 # for i in range(len(data)+1):
